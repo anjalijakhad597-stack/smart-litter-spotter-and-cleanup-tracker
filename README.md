@@ -81,7 +81,7 @@ This project was built by **Team AlgoWarrior** as a collaborative effort.
 **Saurabh Naulakha** *(Team Leader)*
 
 - 📧 Email: anjlaijakhad597@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/anjali-jakhad](https://linkedin.com/in/anjali-jakhad)
+- 💼 LinkedIn: https://www.linkedin.com/in/anjali-jakhad-79b6643a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🐙 GitHub: [github.com/SaurabhNaulakha](https://github.com/SaurabhNaulakha)
 
 ---
