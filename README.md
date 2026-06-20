@@ -72,7 +72,7 @@ This project was built by **Team AlgoWarrior** as a collaborative effort.
 | 👑 Saurabh Naulakha | Team Leader & Full Stack Developer |
 | 💻 Sumit | Backend Developer |
 | 🎨 Anjali | Frontend Developer |
-| 🎨 Komal | UI/UX Designer & Frontend Developer |
+| 🎨 Komal | UI/UX Designer|
 
 ---
 
@@ -80,8 +80,8 @@ This project was built by **Team AlgoWarrior** as a collaborative effort.
 
 **Saurabh Naulakha** *(Team Leader)*
 
-- 📧 Email: naulakhasaurabh@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/saurabh-naulakha](https://linkedin.com/in/saurabh-naulakha)
+- 📧 Email: anjlaijakhad597@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/anjali-jakhad](https://linkedin.com/in/anjali-jakhad)
 - 🐙 GitHub: [github.com/SaurabhNaulakha](https://github.com/SaurabhNaulakha)
 
 ---
