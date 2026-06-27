@@ -82,7 +82,7 @@ This project was built by **Team AlgoWarrior** as a collaborative effort.
 
 - 📧 Email: anjlaijakhad597@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/anjali-jakhad-79b6643a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🐙 GitHub: [github.com/SaurabhNaulakha](https://github.com/anjalijakhad597-stack)
+- 🐙 GitHub:(https://github.com/anjalijakhad597-stack)
 
 ---
 *Made with ❤️ by Team AlgoWarrior*
